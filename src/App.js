@@ -36,3 +36,8 @@ class App extends React.Component{
 }
 
 export default App;
+
+// How to deploy the changes to netlify
+// 1) git add .
+// 2) git commit -m "put the change you commited here"
+// 3) git push
